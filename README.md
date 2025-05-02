@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aryaabhinav219@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MrLS2wddAEimDh1zVUm1kLYs56MrqNTb/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MrLS2wddAEimDh1zVUm1kLYs56MrqNTb/view?usp=sharing)
 
 - ⚡ Fun fact **"The first computer bug was literally a bug — in 1947, computer scientists found a moth stuck in a relay of the Harvard Mark II computer, causing an error. They taped it in the logbook with the note "First actual case of bug being found."**
 
